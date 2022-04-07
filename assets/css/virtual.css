@@ -1140,12 +1140,12 @@ a:hover, a:active {
 }
 
 .theme-red .btn-theme-outline {
-    color: #EF3724;
-    box-shadow: 0 0 0 2px #EF3724;
+    color: white;;
+    box-shadow: 0 0 0 2px black;
 }
 
 .theme-red .btn-theme-outline:hover {
-    background-color: #EF3724;
+    background-color: whitesmoke;
     color: #fff;
 }
 
@@ -1166,11 +1166,11 @@ a:hover, a:active {
 }
 
 .theme-red .progress {
-    box-shadow: 0 0 0 2px #EF3724;
+    box-shadow: 0 0 0 2px black;
 }
 
 .theme-red .progress-bar {
-    background-color: #EF3724;
+    background-color: black;
 }
 
 .theme-red .theme-list li::before {
