@@ -53,7 +53,7 @@
 
 /* Page */
 .vg-page {
-  position: relative;
+  position: inherit;
   display: block;
   padding: 80px 0;
   width: 100%;
