@@ -1122,21 +1122,21 @@ a:hover, a:active {
 }
 
 .theme-red .fg-theme {
-    color: #EF3724 !important;
+    color: #0076e0 !important;
 }
 
 .theme-red .btn-theme {
-    background-color: #EF3724;
+    background-color: #0076e0;
     color: #fff;
 }
 
 .theme-red .btn-theme:hover {
-    background-color: #F04936;
+    background-color: #0076e0;
     color: #fff;
 }
 
 .theme-red .btn-theme:focus {
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #EF3724;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #0076e0;
 }
 
 .theme-red .btn-theme-outline {

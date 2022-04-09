@@ -113,8 +113,8 @@
 
 .page-home .badge {
   padding: 16px 24px;
-  background-color: rgba(239, 56, 36, 0.15);
-  color: #EF3724;
+  background-color: rgb(25 2 225 / 15%);
+  color: #0076e0;
   text-shadow: 0 2px 4px rgba(23, 25, 37, 0.4);
   font-size: 16px;
   border-radius: 40px;
@@ -509,7 +509,7 @@
 }
 
 .theme-red .page-about .img-place::before {
-  border-color: #EF3724;
+  border-color: var(--gray);
 }
 
 .theme-red .timeline li:first-child .title {
